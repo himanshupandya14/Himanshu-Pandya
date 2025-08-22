@@ -1,6 +1,6 @@
 # Himanshu Pandya  
 
-I am a TYBCA student at **SVGU**, specializing in **Data Science** and aspiring to become a **Prompt Engineer**. I am currently gaining industry exposure as an **SEO Intern at EbonyStays (via SVGU)**, where I work on search optimization and digital growth strategies.  
+I am a TYBCA student at **SVGU**, specializing in **Data Science** and aspiring to become a **Prompt Engineer**. I am currently gaining industry exposure as an SEO Intern at EbonyStays where I work on search optimization and digital growth strategies.  
 
 
 
