@@ -12,11 +12,11 @@ I am a TYBCA student at **SVGU**, specializing in **Data Science** and aspiring 
 
 
 ## Experience
-**SEO Intern | EbonyStays (via SVGU)**  
+SEO Intern | EbonyStays  
 - Conducting keyword research and implementing SEO strategies  
 - Enhancing website performance and visibility  
-- Gaining hands-on experience with digital marketing tools  
-
+- Gaining hands-on experience with digital marketing tools
+- https://ebonystays.com/
 
 
 ##  Skills & Tools
@@ -26,7 +26,7 @@ I am a TYBCA student at **SVGU**, specializing in **Data Science** and aspiring 
 - SEO & Digital Marketing: On-page SEO, Keyword Research, Analytics Basics  
 - Soft Skills: Problem-solving, Teamwork, Adaptability  
 
----
+
 
 ## Connect with Me
 - Email: pandyahimanshu1416@gmail.com
