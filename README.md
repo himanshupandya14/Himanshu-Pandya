@@ -1,11 +1,11 @@
 Hello, I'm Himanshu Pandya
 
-TYBCA student at SVGU, specializing in Data Science and aspiring Prompt Engineer. Passionate about AI, ML, and building impactful projects.
+TYBCA student at SVGU, specializing in Data Science and aspiring Prompt Engineer. Passionate about AI, ML, SEO and building impactful projects.
 
 #Skills#
 
-Python, C, Java
-SQL, Pandas, NumPy
+HTML, C, C++, Java
+SQL, PSQL, DSA Python
 Git & GitHub
 Problem-solving, Teamwork
 
